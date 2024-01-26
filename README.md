@@ -36,10 +36,13 @@ The project supports a broad spectrum of languages, enabling users to translate 
 
 - Operating System: Windows, macOS, Linux (for desktop) or Android, iOS (for mobile)
 - Web browser for accessing the translator
-- Python.exe >= 3 for executing the script
-- Required Python libraries: `googletrans', 'gtts', 'langdetect'
+- Python.exe >= 3.0 for executing the script
+- Required Python libraries: `googletrans', 'gtts', 'SpeechRecognition', 'langdetect', 'translate', 'tkinter'(usually included in python)
 ```
-pip install langdetect
+pip install googletrans==4.0.0-rc1
+```
+```
+pip install translate langdetect SpeechRecognition gtts
 ```
 
 ## Conclusion
