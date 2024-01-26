@@ -38,7 +38,9 @@ The project supports a broad spectrum of languages, enabling users to translate 
 - Web browser for accessing the translator
 - Python.exe >= 3 for executing the script
 - Required Python libraries: `googletrans', 'gtts', 'langdetect'
->pip install langdetect
+'''
+pip install langdetect
+'''
 
 ## Conclusion
 
