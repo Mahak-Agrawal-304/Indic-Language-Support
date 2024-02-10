@@ -34,13 +34,13 @@ Software:
   tkinter (usually included with python)
   Pandas
   Easy OCR
-    First install PyTorch, then Easy OCR
-    ```
-    pip install torch
-    ```
-    ```
-    pip install easyocr
-    ```
+  First install PyTorch, then Easy OCR
+  ```
+  pip install torch
+  ```
+  ```
+  pip install easyocr
+  ```
   Open CV
   ```
   pip install opencv-python
@@ -63,8 +63,8 @@ Software:
   ```
   os
 
--Language Support:
-  -Bengali
+Language Support:
+  Bengali
   -English
   -Gujarati
   -Hindi
